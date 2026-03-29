@@ -1,0 +1,59 @@
+body {
+  font-family: Arial;
+  background-color: #f4f6f8;
+  text-align: center;
+}
+
+h2 {
+  color: #333;
+}
+
+.form {
+  margin: 20px;
+}
+
+input {
+  padding: 8px;
+  margin: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.add-btn {
+  background-color: #28a745;
+  color: white;
+}
+
+.delete-btn {
+  background-color: #dc3545;
+  color: white;
+}
+
+table {
+  margin: 20px auto;
+  width: 70%;
+  border-collapse: collapse;
+  background-color: white;
+}
+
+th {
+  background-color: #0c0c0c;
+  color: white;
+  padding: 10px;
+}
+
+td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+  background-color: #f1f1f1;
+}
